@@ -1,6 +1,6 @@
 # Striver-180-CP-Problems
 
-This Repo is a initiative to help aspiring SDE's for being comfortable in Conpetitive Programming (CP). The idea to create this repository came after watching the YT video of *Striver* whose Yt channel link is given below. This will be an Open Source Repo and everybosy is allowed to pull their requests. The goal is to get the most efficient algorithm for every Problem given in Problem set on main page of Repo. 
+This Repo is a initiative to help aspiring SDE's for being comfortable in Conpetitive Programming (CP). The idea to create this repository came after watching the YT video of *Striver* whose Yt channel link is given below. This will be an Open Source Repo and everybody is allowed to pull their requests. The goal is to get the most efficient algorithm for every Problem given in Problem set on main page of Repo. 
 
 ### Link to Striver YT Channel-
 https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig
